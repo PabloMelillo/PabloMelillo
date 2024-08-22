@@ -1,7 +1,7 @@
 Hola que tal,
 
 Estoy iniciandome en el mundo IT.
-Me esperan nuevos desafios y retos para mejor dia a dia en este camino, largo, desafiante pero brillante de la tecnologia.
+Me esperan nuevos desafios y retos para mejorar dia a dia en este camino, largo, desafiante pero brillante de la tecnologia.
 
 Saludos!
 <!---
